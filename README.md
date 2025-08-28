@@ -109,5 +109,7 @@ AutoBizOps follows a modular design so components can be swapped or scaled:
 
 MIT
 
+Demo code for educational/portfolio purposes only — do not use in production without permission.
+
 ---
 
